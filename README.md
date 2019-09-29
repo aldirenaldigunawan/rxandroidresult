@@ -65,3 +65,8 @@ ActivityResult(requestCode, intent, resultCode)
 * will carry a list of permission
 */
 PermissionResult(listOfPermission)
+```
+
+#### Library Usages
+- [RxJava](https://github.com/ReactiveX/RxJava)
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid)
